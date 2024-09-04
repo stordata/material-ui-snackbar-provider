@@ -1,6 +1,6 @@
 {
-  "name": "material-ui-snackbar-provider",
-  "version": "2.0.0",
+  "name": "@stordata/material-ui-snackbar-provider",
+  "version": "3.0.1",
   "description": "A convenient way to use material-ui's snackbars.",
   "main": "lib/index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TeamWertarbyte/material-ui-snackbar-provider.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "react",
